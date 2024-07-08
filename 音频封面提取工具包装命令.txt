@@ -1,0 +1,5 @@
+color a
+
+cd C:\Users\Administrator\Desktop
+
+pyinstaller --onefile --version-file file_version_info.txt 音频封面提取工具v0.2.py
